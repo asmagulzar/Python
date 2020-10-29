@@ -1,0 +1,1 @@
+[1m[31mERROR   [0m root:test_xero.py:50 LOGGED Error message
